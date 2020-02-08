@@ -1,3 +1,8 @@
+# Counter App
+This app was created to learn React testing with Enzyme and Jest.
+
+It increases the counter by 1 by clicking 'Increment Counter' button and decreases the counter by clicking 'Decrement Counter' button. Counter count can't go below zero.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
